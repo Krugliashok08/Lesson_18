@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 17 17:35:49 MSK 2024","Wed Apr 17 17:35:49 MSK 2024","1","","Test","","Test","subtractionTest","subtractionTest()",""
+"passed","Wed Apr 17 17:35:49 MSK 2024","Wed Apr 17 17:35:49 MSK 2024","1","","Test","","Test","multiplicationTest","multiplicationTest()",""
+"passed","Wed Apr 17 17:35:49 MSK 2024","Wed Apr 17 17:35:49 MSK 2024","1","","Test","","Test","additionTest","additionTest()",""
+"passed","Wed Apr 17 17:35:48 MSK 2024","Wed Apr 17 17:35:48 MSK 2024","26","","Test","","Test","divisionTest","divisionTest()",""
